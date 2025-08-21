@@ -16,13 +16,13 @@ Perfect for learning **full-stack development**, **REST API integration**, and *
 
 ##  Features
 
-### 🔹 Backend (Spring Boot + MongoDB)
+###  Backend (Spring Boot + MongoDB)
 - **Job Listings API** – RESTful endpoints to fetch, add, update, and delete jobs.  
 - **MongoDB Integration** – Stores job data in a cloud database.  
 - **Filtering** – Supports filtering jobs by profile, experience, and technologies.  
 - **Extensible** – Easy to extend with authentication or advanced queries.  
 
-### 🔹 Frontend (React)
+###  Frontend (React)
 - **Job Browser** – Displays all jobs in a clean UI.  
 - **Search & Filter** – Find jobs by keywords, skills, or years of experience.  
 - **Job Details Page** – Explore job description, required stack, and profile.  
@@ -51,7 +51,7 @@ Fullstack-Joblisting/
 
 ---
 
-## ⚙️ Setup Instructions  
+##  Setup Instructions  
 
 ### 1 Clone the Repository
 ```bash
@@ -84,7 +84,7 @@ cd Fullstack-Joblisting
    ./mvnw spring-boot:run
    ```
 
-   👉 Runs at `http://localhost:8080`  
+    Runs at `http://localhost:8080`  
 
 ---
 
@@ -105,7 +105,7 @@ cd Fullstack-Joblisting
    npm start
    ```
 
-   👉 Runs at `http://localhost:3000`  
+    Runs at `http://localhost:3000`  
 
 ---
 
@@ -151,7 +151,7 @@ Each job document looks like:
 
 ---
 
-## 🛠️ Technologies Used  
+##  Technologies Used  
 
 - **Java 17**  
 - **Spring Boot 3.x**  
