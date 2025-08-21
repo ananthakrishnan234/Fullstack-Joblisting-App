@@ -130,9 +130,9 @@ Each job document looks like:
 ```json
 {
   "_id": "1",
-  "desc": "Already sea cup they let figure performance guess...",
+  "desc": "Experience in python debelopment.",
   "exp": 12,
-  "profile": "Academic librarian",
+  "profile": "Developer",
   "techs": ["docker", "kubernetes", "react", "python"]
 }
 ```
