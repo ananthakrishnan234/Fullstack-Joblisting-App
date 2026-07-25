@@ -7,6 +7,7 @@ import com.mongodb.client.MongoDatabase;
 import com.example.joblisting.model.Post;
 import org.bson.Document;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.data.mongodb.core.convert.MongoConverter;
 import org.springframework.stereotype.Component;
 
@@ -14,9 +15,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-
 @Component
-public class SearchRepositoryImpl implements SearchRepository{
+public class SearchRepositoryImpl implements SearchRepository {
 
     @Autowired
     MongoClient client;
@@ -24,24 +24,30 @@ public class SearchRepositoryImpl implements SearchRepository{
     @Autowired
     MongoConverter converter;
 
+    @Value("${spring.data.mongodb.database}")
+    private String databaseName;
+
+    private static final String COLLECTION_NAME = "joblisting";
+    private static final int SEARCH_RESULT_LIMIT = 20;
+
     @Override
     public List<Post> findByText(String text) {
-
         final List<Post> posts = new ArrayList<>();
 
-        MongoDatabase database = client.getDatabase("jobapidb");
-        MongoCollection<Document> collection = database.getCollection("joblisting");
+        MongoDatabase database = client.getDatabase(databaseName);
+        MongoCollection<Document> collection = database.getCollection(COLLECTION_NAME);
 
-        AggregateIterable<Document> result = collection.aggregate(Arrays.asList(new Document("$search",
+        AggregateIterable<Document> result = collection.aggregate(Arrays.asList(
+                new Document("$search",
                         new Document("text",
                                 new Document("query", text)
                                         .append("path", Arrays.asList("techs", "desc", "profile")))),
                 new Document("$sort",
                         new Document("exp", 1L)),
-                new Document("$limit", 5L)));
+                new Document("$limit", (long) SEARCH_RESULT_LIMIT)
+        ));
 
-        result.forEach(doc -> posts.add(converter.read(Post.class,doc)));
-
+        result.forEach(doc -> posts.add(converter.read(Post.class, doc)));
         return posts;
     }
 }
