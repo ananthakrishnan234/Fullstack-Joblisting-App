@@ -1,7 +1,5 @@
 package com.example.joblisting.dto;
 
-import java.util.Arrays;
-
 public class PostResponse {
 
     private String id;
@@ -25,9 +23,4 @@ public class PostResponse {
     public String getDesc() { return desc; }
     public int getExp() { return exp; }
     public String[] getTechs() { return techs; }
-
-    @Override
-    public String toString() {
-        return "PostResponse{id='" + id + "', profile='" + profile + "', exp=" + exp + ", techs=" + Arrays.toString(techs) + "}";
-    }
 }
