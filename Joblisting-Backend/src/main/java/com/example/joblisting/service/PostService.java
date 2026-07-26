@@ -24,7 +24,6 @@ public class PostService {
     @Autowired
     private SearchRepository searchRepository;
 
-    // Convert entity to response DTO
     private PostResponse toResponse(Post post) {
         return new PostResponse(
                 post.getId(),
@@ -35,7 +34,6 @@ public class PostService {
         );
     }
 
-    // Convert request DTO to entity
     private Post toEntity(PostRequest request) {
         Post post = new Post();
         post.setProfile(request.getProfile());

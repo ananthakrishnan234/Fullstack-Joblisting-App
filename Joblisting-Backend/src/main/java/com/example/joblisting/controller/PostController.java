@@ -24,8 +24,7 @@ public class PostController {
     public ResponseEntity<List<PostResponse>> getAllJobs(
             @RequestParam(defaultValue = "0") int page,
             @RequestParam(defaultValue = "10") int size) {
-        List<PostResponse> jobs = postService.getAllPosts(page, size);
-        return ResponseEntity.ok(jobs);
+        return ResponseEntity.ok(postService.getAllPosts(page, size));
     }
 
     // GET /jobs/{id}
@@ -57,16 +56,13 @@ public class PostController {
     @DeleteMapping("/{id}")
     public ResponseEntity<Void> deleteJob(@PathVariable String id) {
         boolean deleted = postService.deletePost(id);
-        if (!deleted) {
-            throw new ResourceNotFoundException("Job", id);
-        }
+        if (!deleted) throw new ResourceNotFoundException("Job", id);
         return ResponseEntity.noContent().build();
     }
 
     // GET /jobs/search/{text}
     @GetMapping("/search/{text}")
     public ResponseEntity<List<PostResponse>> searchJobs(@PathVariable String text) {
-        List<PostResponse> results = postService.searchPosts(text);
-        return ResponseEntity.ok(results);
+        return ResponseEntity.ok(postService.searchPosts(text));
     }
 }

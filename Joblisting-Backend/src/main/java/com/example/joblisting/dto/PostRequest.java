@@ -20,7 +20,6 @@ public class PostRequest {
     @Size(min = 1, message = "At least one technology must be specified")
     private String[] techs;
 
-    // Getters and setters
     public String getProfile() { return profile; }
     public void setProfile(String profile) { this.profile = profile; }
 

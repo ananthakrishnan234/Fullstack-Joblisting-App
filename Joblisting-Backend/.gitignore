@@ -1,25 +1,30 @@
-# Environment files - NEVER commit these
+# ─── SECURITY — NEVER commit these ───────
 .env
 *.env
 application-local.properties
 
-# Maven
+# ─── Maven ────────────────────────────────
 target/
 *.jar
 *.war
+*.class
+.mvn/
 
-# IDE
+# ─── IDE ──────────────────────────────────
 .idea/
 *.iml
+*.iws
 .vscode/
-*.class
+*.suo
+*.user
 
-# Node
+# ─── OS ───────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ─── Node (frontend) ──────────────────────
 node_modules/
 build/
 dist/
 .env.local
-
-# OS
-.DS_Store
-Thumbs.db
+npm-debug.log*
