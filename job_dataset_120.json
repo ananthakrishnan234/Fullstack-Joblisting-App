@@ -1,0 +1,1535 @@
+[
+  {
+    "_id": "8",
+    "desc": "Senior Data Scientist",
+    "exp": 15,
+    "profile": "Expert Datascientist",
+    "techs": [
+      "Python",
+      "TensorFlow"
+    ]
+  },
+  {
+    "_id": "13",
+    "desc": "Manager for onsite projects in US and UK",
+    "exp": 15,
+    "profile": "Senior Manager",
+    "techs": [
+      "Leadership",
+      "Agile",
+      "Scrum",
+      "Project Management"
+    ]
+  },
+  {
+    "_id": "14",
+    "desc": "Software engineer who can work on enterprise projects using Spring Boot and React",
+    "exp": 1,
+    "profile": "developer",
+    "techs": [
+      "Java",
+      "Spring Boot",
+      "React",
+      "MongoDB",
+      "Git"
+    ]
+  },
+  {
+    "_id": "22",
+    "desc": "Senior Associate consultant for Mumbai Location",
+    "exp": 15,
+    "profile": "Senior Architect",
+    "techs": [
+      "Java",
+      "Spring",
+      "AWS",
+      "Microservices",
+      "Docker"
+    ]
+  },
+  {
+    "_id": "27",
+    "desc": "Associate consultant architecture of software, Agile, Devops",
+    "exp": 10,
+    "profile": "Architect",
+    "techs": [
+      "Java",
+      "Spring Boot",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "Agile",
+      "Jenkins",
+      "Git"
+    ]
+  },
+  {
+    "_id": "29",
+    "desc": "Senior Data Scientist",
+    "exp": 15,
+    "profile": "Expert Datascientist",
+    "techs": [
+      "Python",
+      "PyTorch"
+    ]
+  },
+  {
+    "_id": "30",
+    "desc": "Build and maintain enterprise-grade web applications at TechNova for Bengaluru (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 0,
+    "profile": "Software Engineer",
+    "techs": [
+      "Java",
+      "Spring Boot",
+      "React",
+      "MySQL",
+      "Git"
+    ]
+  },
+  {
+    "_id": "31",
+    "desc": "Develop scalable REST APIs and backend services at InnovaSoft for Chennai (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 2,
+    "profile": "Backend Developer",
+    "techs": [
+      "Java",
+      "Spring Boot",
+      "REST API",
+      "MongoDB",
+      "Docker"
+    ]
+  },
+  {
+    "_id": "32",
+    "desc": "Create responsive user interfaces for modern web apps at SkyBridge Systems for Hyderabad (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 2,
+    "profile": "Frontend Developer",
+    "techs": [
+      "React",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Bootstrap"
+    ]
+  },
+  {
+    "_id": "33",
+    "desc": "Work across frontend and backend layers in product teams at Orbit Labs for Mumbai (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 5,
+    "profile": "Full Stack Developer",
+    "techs": [
+      "Java",
+      "Spring Boot",
+      "React",
+      "PostgreSQL",
+      "Git"
+    ]
+  },
+  {
+    "_id": "34",
+    "desc": "Automate build, release, and deployment workflows at BluePeak Solutions for Pune (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 2,
+    "profile": "DevOps Engineer",
+    "techs": [
+      "Docker",
+      "Kubernetes",
+      "Jenkins",
+      "Linux",
+      "AWS"
+    ]
+  },
+  {
+    "_id": "35",
+    "desc": "Design and support cloud infrastructure and services at NexaWorks for Kochi (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 4,
+    "profile": "Cloud Engineer",
+    "techs": [
+      "AWS",
+      "Terraform",
+      "Docker",
+      "Linux",
+      "Python"
+    ]
+  },
+  {
+    "_id": "36",
+    "desc": "Analyze business data and prepare dashboards at FutureGrid for Delhi (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 2,
+    "profile": "Data Analyst",
+    "techs": [
+      "SQL",
+      "Excel",
+      "Power BI",
+      "Tableau"
+    ]
+  },
+  {
+    "_id": "37",
+    "desc": "Build reliable ETL pipelines and data platforms at CodeCraft for Noida (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 5,
+    "profile": "Data Engineer",
+    "techs": [
+      "Python",
+      "Spark",
+      "Kafka",
+      "SQL",
+      "AWS"
+    ]
+  },
+  {
+    "_id": "38",
+    "desc": "Train and deploy ML models for real-world use cases at AlphaSphere for Remote (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 6,
+    "profile": "Machine Learning Engineer",
+    "techs": [
+      "Python",
+      "TensorFlow",
+      "Scikit-learn",
+      "Pandas",
+      "NumPy"
+    ]
+  },
+  {
+    "_id": "39",
+    "desc": "Test web and API features with automation at PrimeStack for Hybrid (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 0,
+    "profile": "QA Engineer",
+    "techs": [
+      "Selenium",
+      "Java",
+      "JUnit",
+      "TestNG",
+      "Postman"
+    ]
+  },
+  {
+    "_id": "40",
+    "desc": "Monitor systems and help secure enterprise environments at VertexOne for Gurugram (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 3,
+    "profile": "Security Analyst",
+    "techs": [
+      "SIEM",
+      "Networking",
+      "Linux",
+      "Python",
+      "Firewalls"
+    ]
+  },
+  {
+    "_id": "41",
+    "desc": "Maintain and optimize enterprise databases at CloudMint for Thiruvananthapuram (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 6,
+    "profile": "Database Administrator",
+    "techs": [
+      "SQL",
+      "PostgreSQL",
+      "Oracle",
+      "Backup",
+      "Performance Tuning"
+    ]
+  },
+  {
+    "_id": "42",
+    "desc": "Develop Android apps and mobile features at TechNova for Bengaluru (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 3,
+    "profile": "Android Developer",
+    "techs": [
+      "Kotlin",
+      "Android",
+      "Firebase",
+      "REST API"
+    ]
+  },
+  {
+    "_id": "43",
+    "desc": "Build iOS apps with native tools and frameworks at InnovaSoft for Chennai (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 5,
+    "profile": "iOS Developer",
+    "techs": [
+      "Swift",
+      "iOS",
+      "Xcode",
+      "Firebase"
+    ]
+  },
+  {
+    "_id": "44",
+    "desc": "Design intuitive experiences for web and mobile products at SkyBridge Systems for Hyderabad (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 0,
+    "profile": "UI/UX Designer",
+    "techs": [
+      "Figma",
+      "Adobe XD",
+      "Wireframing",
+      "Prototyping"
+    ]
+  },
+  {
+    "_id": "45",
+    "desc": "Gather requirements and support product delivery at Orbit Labs for Mumbai (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 2,
+    "profile": "Business Analyst",
+    "techs": [
+      "SQL",
+      "Excel",
+      "JIRA",
+      "Agile",
+      "Power BI"
+    ]
+  },
+  {
+    "_id": "46",
+    "desc": "Improve availability, monitoring, and incident response at BluePeak Solutions for Pune (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 5,
+    "profile": "Site Reliability Engineer",
+    "techs": [
+      "Linux",
+      "Docker",
+      "Kubernetes",
+      "Prometheus",
+      "Grafana"
+    ]
+  },
+  {
+    "_id": "47",
+    "desc": "Design scalable architecture for enterprise platforms at NexaWorks for Kochi (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 11,
+    "profile": "Solutions Architect",
+    "techs": [
+      "AWS",
+      "Microservices",
+      "Docker",
+      "Kubernetes",
+      "Java"
+    ]
+  },
+  {
+    "_id": "48",
+    "desc": "Lead developers and review architecture decisions at FutureGrid for Delhi (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 10,
+    "profile": "Technical Lead",
+    "techs": [
+      "Java",
+      "Spring Boot",
+      "AWS",
+      "Docker",
+      "Leadership"
+    ]
+  },
+  {
+    "_id": "49",
+    "desc": "Build microservices using Spring Boot and cloud tools at CodeCraft for Noida (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 2,
+    "profile": "Java Microservices Developer",
+    "techs": [
+      "Java",
+      "Spring Boot",
+      "Kafka",
+      "Docker",
+      "AWS"
+    ]
+  },
+  {
+    "_id": "50",
+    "desc": "Develop frontend applications with reusable components at AlphaSphere for Remote (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 1,
+    "profile": "React Developer",
+    "techs": [
+      "React",
+      "Redux",
+      "JavaScript",
+      "CSS",
+      "HTML"
+    ]
+  },
+  {
+    "_id": "51",
+    "desc": "Create backend services and automation scripts at PrimeStack for Hybrid (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 2,
+    "profile": "Python Developer",
+    "techs": [
+      "Python",
+      "Django",
+      "Flask",
+      "PostgreSQL",
+      "Git"
+    ]
+  },
+  {
+    "_id": "52",
+    "desc": "Build generative AI and intelligent automation solutions at VertexOne for Gurugram (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 4,
+    "profile": "AI Engineer",
+    "techs": [
+      "Python",
+      "LLMs",
+      "LangChain",
+      "OpenAI API",
+      "Vector DB"
+    ]
+  },
+  {
+    "_id": "53",
+    "desc": "Entry-level opportunity for fresh graduates at CloudMint for Thiruvananthapuram (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 0,
+    "profile": "Graduate Trainee",
+    "techs": [
+      "Java",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Git"
+    ]
+  },
+  {
+    "_id": "54",
+    "desc": "Internship for computer science students and freshers at TechNova for Bengaluru (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 0,
+    "profile": "Software Engineer Intern",
+    "techs": [
+      "Java",
+      "Git",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  },
+  {
+    "_id": "55",
+    "desc": "Deliver product features end to end in a fast-paced team at InnovaSoft for Chennai (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 1,
+    "profile": "Product Engineer",
+    "techs": [
+      "Java",
+      "React",
+      "MongoDB",
+      "REST API",
+      "Git"
+    ]
+  },
+  {
+    "_id": "56",
+    "desc": "Implement and support enterprise ERP modules at SkyBridge Systems for Hyderabad (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 5,
+    "profile": "ERP Consultant",
+    "techs": [
+      "SQL",
+      "Java",
+      "Agile",
+      "Business Analysis"
+    ]
+  },
+  {
+    "_id": "57",
+    "desc": "Build cross-functional mobile experiences at Orbit Labs for Mumbai (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 4,
+    "profile": "Mobile App Developer",
+    "techs": [
+      "Flutter",
+      "Dart",
+      "Firebase",
+      "REST API"
+    ]
+  },
+  {
+    "_id": "58",
+    "desc": "Support internal developer platforms and automation at BluePeak Solutions for Pune (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 8,
+    "profile": "Platform Engineer",
+    "techs": [
+      "Linux",
+      "Docker",
+      "Kubernetes",
+      "Python",
+      "CI/CD"
+    ]
+  },
+  {
+    "_id": "59",
+    "desc": "Build and maintain enterprise-grade web applications at NexaWorks for Kochi (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 0,
+    "profile": "Software Engineer",
+    "techs": [
+      "Java",
+      "Spring Boot",
+      "React",
+      "MySQL",
+      "Git"
+    ]
+  },
+  {
+    "_id": "60",
+    "desc": "Develop scalable REST APIs and backend services at FutureGrid for Delhi (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 1,
+    "profile": "Backend Developer",
+    "techs": [
+      "Java",
+      "Spring Boot",
+      "REST API",
+      "MongoDB",
+      "Docker"
+    ]
+  },
+  {
+    "_id": "61",
+    "desc": "Create responsive user interfaces for modern web apps at CodeCraft for Noida (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 1,
+    "profile": "Frontend Developer",
+    "techs": [
+      "React",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Bootstrap"
+    ]
+  },
+  {
+    "_id": "62",
+    "desc": "Work across frontend and backend layers in product teams at AlphaSphere for Remote (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 4,
+    "profile": "Full Stack Developer",
+    "techs": [
+      "Java",
+      "Spring Boot",
+      "React",
+      "PostgreSQL",
+      "Git"
+    ]
+  },
+  {
+    "_id": "63",
+    "desc": "Automate build, release, and deployment workflows at PrimeStack for Hybrid (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 6,
+    "profile": "DevOps Engineer",
+    "techs": [
+      "Docker",
+      "Kubernetes",
+      "Jenkins",
+      "Linux",
+      "AWS"
+    ]
+  },
+  {
+    "_id": "64",
+    "desc": "Design and support cloud infrastructure and services at VertexOne for Gurugram (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 3,
+    "profile": "Cloud Engineer",
+    "techs": [
+      "AWS",
+      "Terraform",
+      "Docker",
+      "Linux",
+      "Python"
+    ]
+  },
+  {
+    "_id": "65",
+    "desc": "Analyze business data and prepare dashboards at CloudMint for Thiruvananthapuram (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 1,
+    "profile": "Data Analyst",
+    "techs": [
+      "SQL",
+      "Excel",
+      "Power BI",
+      "Tableau"
+    ]
+  },
+  {
+    "_id": "66",
+    "desc": "Build reliable ETL pipelines and data platforms at TechNova for Bengaluru (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 4,
+    "profile": "Data Engineer",
+    "techs": [
+      "Python",
+      "Spark",
+      "Kafka",
+      "SQL",
+      "AWS"
+    ]
+  },
+  {
+    "_id": "67",
+    "desc": "Train and deploy ML models for real-world use cases at InnovaSoft for Chennai (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 5,
+    "profile": "Machine Learning Engineer",
+    "techs": [
+      "Python",
+      "TensorFlow",
+      "Scikit-learn",
+      "Pandas",
+      "NumPy"
+    ]
+  },
+  {
+    "_id": "68",
+    "desc": "Test web and API features with automation at SkyBridge Systems for Hyderabad (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 4,
+    "profile": "QA Engineer",
+    "techs": [
+      "Selenium",
+      "Java",
+      "JUnit",
+      "TestNG",
+      "Postman"
+    ]
+  },
+  {
+    "_id": "69",
+    "desc": "Monitor systems and help secure enterprise environments at Orbit Labs for Mumbai (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 2,
+    "profile": "Security Analyst",
+    "techs": [
+      "SIEM",
+      "Networking",
+      "Linux",
+      "Python",
+      "Firewalls"
+    ]
+  },
+  {
+    "_id": "70",
+    "desc": "Maintain and optimize enterprise databases at BluePeak Solutions for Pune (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 5,
+    "profile": "Database Administrator",
+    "techs": [
+      "SQL",
+      "PostgreSQL",
+      "Oracle",
+      "Backup",
+      "Performance Tuning"
+    ]
+  },
+  {
+    "_id": "71",
+    "desc": "Develop Android apps and mobile features at NexaWorks for Kochi (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 2,
+    "profile": "Android Developer",
+    "techs": [
+      "Kotlin",
+      "Android",
+      "Firebase",
+      "REST API"
+    ]
+  },
+  {
+    "_id": "72",
+    "desc": "Build iOS apps with native tools and frameworks at FutureGrid for Delhi (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 4,
+    "profile": "iOS Developer",
+    "techs": [
+      "Swift",
+      "iOS",
+      "Xcode",
+      "Firebase"
+    ]
+  },
+  {
+    "_id": "73",
+    "desc": "Design intuitive experiences for web and mobile products at CodeCraft for Noida (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 4,
+    "profile": "UI/UX Designer",
+    "techs": [
+      "Figma",
+      "Adobe XD",
+      "Wireframing",
+      "Prototyping"
+    ]
+  },
+  {
+    "_id": "74",
+    "desc": "Gather requirements and support product delivery at AlphaSphere for Remote (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 1,
+    "profile": "Business Analyst",
+    "techs": [
+      "SQL",
+      "Excel",
+      "JIRA",
+      "Agile",
+      "Power BI"
+    ]
+  },
+  {
+    "_id": "75",
+    "desc": "Improve availability, monitoring, and incident response at PrimeStack for Hybrid (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 4,
+    "profile": "Site Reliability Engineer",
+    "techs": [
+      "Linux",
+      "Docker",
+      "Kubernetes",
+      "Prometheus",
+      "Grafana"
+    ]
+  },
+  {
+    "_id": "76",
+    "desc": "Design scalable architecture for enterprise platforms at VertexOne for Gurugram (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 10,
+    "profile": "Solutions Architect",
+    "techs": [
+      "AWS",
+      "Microservices",
+      "Docker",
+      "Kubernetes",
+      "Java"
+    ]
+  },
+  {
+    "_id": "77",
+    "desc": "Lead developers and review architecture decisions at CloudMint for Thiruvananthapuram (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 9,
+    "profile": "Technical Lead",
+    "techs": [
+      "Java",
+      "Spring Boot",
+      "AWS",
+      "Docker",
+      "Leadership"
+    ]
+  },
+  {
+    "_id": "78",
+    "desc": "Build microservices using Spring Boot and cloud tools at TechNova for Bengaluru (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 6,
+    "profile": "Java Microservices Developer",
+    "techs": [
+      "Java",
+      "Spring Boot",
+      "Kafka",
+      "Docker",
+      "AWS"
+    ]
+  },
+  {
+    "_id": "79",
+    "desc": "Develop frontend applications with reusable components at InnovaSoft for Chennai (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 0,
+    "profile": "React Developer",
+    "techs": [
+      "React",
+      "Redux",
+      "JavaScript",
+      "CSS",
+      "HTML"
+    ]
+  },
+  {
+    "_id": "80",
+    "desc": "Create backend services and automation scripts at SkyBridge Systems for Hyderabad (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 1,
+    "profile": "Python Developer",
+    "techs": [
+      "Python",
+      "Django",
+      "Flask",
+      "PostgreSQL",
+      "Git"
+    ]
+  },
+  {
+    "_id": "81",
+    "desc": "Build generative AI and intelligent automation solutions at Orbit Labs for Mumbai (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 3,
+    "profile": "AI Engineer",
+    "techs": [
+      "Python",
+      "LLMs",
+      "LangChain",
+      "OpenAI API",
+      "Vector DB"
+    ]
+  },
+  {
+    "_id": "82",
+    "desc": "Entry-level opportunity for fresh graduates at BluePeak Solutions for Pune (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 0,
+    "profile": "Graduate Trainee",
+    "techs": [
+      "Java",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Git"
+    ]
+  },
+  {
+    "_id": "83",
+    "desc": "Internship for computer science students and freshers at NexaWorks for Kochi (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 0,
+    "profile": "Software Engineer Intern",
+    "techs": [
+      "Java",
+      "Git",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  },
+  {
+    "_id": "84",
+    "desc": "Deliver product features end to end in a fast-paced team at FutureGrid for Delhi (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 0,
+    "profile": "Product Engineer",
+    "techs": [
+      "Java",
+      "React",
+      "MongoDB",
+      "REST API",
+      "Git"
+    ]
+  },
+  {
+    "_id": "85",
+    "desc": "Implement and support enterprise ERP modules at CodeCraft for Noida (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 4,
+    "profile": "ERP Consultant",
+    "techs": [
+      "SQL",
+      "Java",
+      "Agile",
+      "Business Analysis"
+    ]
+  },
+  {
+    "_id": "86",
+    "desc": "Build cross-functional mobile experiences at AlphaSphere for Remote (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 3,
+    "profile": "Mobile App Developer",
+    "techs": [
+      "Flutter",
+      "Dart",
+      "Firebase",
+      "REST API"
+    ]
+  },
+  {
+    "_id": "87",
+    "desc": "Support internal developer platforms and automation at PrimeStack for Hybrid (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 7,
+    "profile": "Platform Engineer",
+    "techs": [
+      "Linux",
+      "Docker",
+      "Kubernetes",
+      "Python",
+      "CI/CD"
+    ]
+  },
+  {
+    "_id": "88",
+    "desc": "Build and maintain enterprise-grade web applications at VertexOne for Gurugram (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 3,
+    "profile": "Software Engineer",
+    "techs": [
+      "Java",
+      "Spring Boot",
+      "React",
+      "MySQL",
+      "Git"
+    ]
+  },
+  {
+    "_id": "89",
+    "desc": "Develop scalable REST APIs and backend services at CloudMint for Thiruvananthapuram (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 0,
+    "profile": "Backend Developer",
+    "techs": [
+      "Java",
+      "Spring Boot",
+      "REST API",
+      "MongoDB",
+      "Docker"
+    ]
+  },
+  {
+    "_id": "90",
+    "desc": "Create responsive user interfaces for modern web apps at TechNova for Bengaluru (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 0,
+    "profile": "Frontend Developer",
+    "techs": [
+      "React",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Bootstrap"
+    ]
+  },
+  {
+    "_id": "91",
+    "desc": "Work across frontend and backend layers in product teams at InnovaSoft for Chennai (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 3,
+    "profile": "Full Stack Developer",
+    "techs": [
+      "Java",
+      "Spring Boot",
+      "React",
+      "PostgreSQL",
+      "Git"
+    ]
+  },
+  {
+    "_id": "92",
+    "desc": "Automate build, release, and deployment workflows at SkyBridge Systems for Hyderabad (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 5,
+    "profile": "DevOps Engineer",
+    "techs": [
+      "Docker",
+      "Kubernetes",
+      "Jenkins",
+      "Linux",
+      "AWS"
+    ]
+  },
+  {
+    "_id": "93",
+    "desc": "Design and support cloud infrastructure and services at Orbit Labs for Mumbai (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 7,
+    "profile": "Cloud Engineer",
+    "techs": [
+      "AWS",
+      "Terraform",
+      "Docker",
+      "Linux",
+      "Python"
+    ]
+  },
+  {
+    "_id": "94",
+    "desc": "Analyze business data and prepare dashboards at BluePeak Solutions for Pune (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 0,
+    "profile": "Data Analyst",
+    "techs": [
+      "SQL",
+      "Excel",
+      "Power BI",
+      "Tableau"
+    ]
+  },
+  {
+    "_id": "95",
+    "desc": "Build reliable ETL pipelines and data platforms at NexaWorks for Kochi (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 3,
+    "profile": "Data Engineer",
+    "techs": [
+      "Python",
+      "Spark",
+      "Kafka",
+      "SQL",
+      "AWS"
+    ]
+  },
+  {
+    "_id": "96",
+    "desc": "Train and deploy ML models for real-world use cases at FutureGrid for Delhi (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 4,
+    "profile": "Machine Learning Engineer",
+    "techs": [
+      "Python",
+      "TensorFlow",
+      "Scikit-learn",
+      "Pandas",
+      "NumPy"
+    ]
+  },
+  {
+    "_id": "97",
+    "desc": "Test web and API features with automation at CodeCraft for Noida (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 3,
+    "profile": "QA Engineer",
+    "techs": [
+      "Selenium",
+      "Java",
+      "JUnit",
+      "TestNG",
+      "Postman"
+    ]
+  },
+  {
+    "_id": "98",
+    "desc": "Monitor systems and help secure enterprise environments at AlphaSphere for Remote (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 6,
+    "profile": "Security Analyst",
+    "techs": [
+      "SIEM",
+      "Networking",
+      "Linux",
+      "Python",
+      "Firewalls"
+    ]
+  },
+  {
+    "_id": "99",
+    "desc": "Maintain and optimize enterprise databases at PrimeStack for Hybrid (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 4,
+    "profile": "Database Administrator",
+    "techs": [
+      "SQL",
+      "PostgreSQL",
+      "Oracle",
+      "Backup",
+      "Performance Tuning"
+    ]
+  },
+  {
+    "_id": "100",
+    "desc": "Develop Android apps and mobile features at VertexOne for Gurugram (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 1,
+    "profile": "Android Developer",
+    "techs": [
+      "Kotlin",
+      "Android",
+      "Firebase",
+      "REST API"
+    ]
+  },
+  {
+    "_id": "101",
+    "desc": "Build iOS apps with native tools and frameworks at CloudMint for Thiruvananthapuram (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 3,
+    "profile": "iOS Developer",
+    "techs": [
+      "Swift",
+      "iOS",
+      "Xcode",
+      "Firebase"
+    ]
+  },
+  {
+    "_id": "102",
+    "desc": "Design intuitive experiences for web and mobile products at TechNova for Bengaluru (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 3,
+    "profile": "UI/UX Designer",
+    "techs": [
+      "Figma",
+      "Adobe XD",
+      "Wireframing",
+      "Prototyping"
+    ]
+  },
+  {
+    "_id": "103",
+    "desc": "Gather requirements and support product delivery at InnovaSoft for Chennai (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 5,
+    "profile": "Business Analyst",
+    "techs": [
+      "SQL",
+      "Excel",
+      "JIRA",
+      "Agile",
+      "Power BI"
+    ]
+  },
+  {
+    "_id": "104",
+    "desc": "Improve availability, monitoring, and incident response at SkyBridge Systems for Hyderabad (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 3,
+    "profile": "Site Reliability Engineer",
+    "techs": [
+      "Linux",
+      "Docker",
+      "Kubernetes",
+      "Prometheus",
+      "Grafana"
+    ]
+  },
+  {
+    "_id": "105",
+    "desc": "Design scalable architecture for enterprise platforms at Orbit Labs for Mumbai (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 9,
+    "profile": "Solutions Architect",
+    "techs": [
+      "AWS",
+      "Microservices",
+      "Docker",
+      "Kubernetes",
+      "Java"
+    ]
+  },
+  {
+    "_id": "106",
+    "desc": "Lead developers and review architecture decisions at BluePeak Solutions for Pune (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 8,
+    "profile": "Technical Lead",
+    "techs": [
+      "Java",
+      "Spring Boot",
+      "AWS",
+      "Docker",
+      "Leadership"
+    ]
+  },
+  {
+    "_id": "107",
+    "desc": "Build microservices using Spring Boot and cloud tools at NexaWorks for Kochi (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 5,
+    "profile": "Java Microservices Developer",
+    "techs": [
+      "Java",
+      "Spring Boot",
+      "Kafka",
+      "Docker",
+      "AWS"
+    ]
+  },
+  {
+    "_id": "108",
+    "desc": "Develop frontend applications with reusable components at FutureGrid for Delhi (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 4,
+    "profile": "React Developer",
+    "techs": [
+      "React",
+      "Redux",
+      "JavaScript",
+      "CSS",
+      "HTML"
+    ]
+  },
+  {
+    "_id": "109",
+    "desc": "Create backend services and automation scripts at CodeCraft for Noida (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 0,
+    "profile": "Python Developer",
+    "techs": [
+      "Python",
+      "Django",
+      "Flask",
+      "PostgreSQL",
+      "Git"
+    ]
+  },
+  {
+    "_id": "110",
+    "desc": "Build generative AI and intelligent automation solutions at AlphaSphere for Remote (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 2,
+    "profile": "AI Engineer",
+    "techs": [
+      "Python",
+      "LLMs",
+      "LangChain",
+      "OpenAI API",
+      "Vector DB"
+    ]
+  },
+  {
+    "_id": "111",
+    "desc": "Entry-level opportunity for fresh graduates at PrimeStack for Hybrid (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 0,
+    "profile": "Graduate Trainee",
+    "techs": [
+      "Java",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Git"
+    ]
+  },
+  {
+    "_id": "112",
+    "desc": "Internship for computer science students and freshers at VertexOne for Gurugram (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 0,
+    "profile": "Software Engineer Intern",
+    "techs": [
+      "Java",
+      "Git",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  },
+  {
+    "_id": "113",
+    "desc": "Deliver product features end to end in a fast-paced team at CloudMint for Thiruvananthapuram (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 4,
+    "profile": "Product Engineer",
+    "techs": [
+      "Java",
+      "React",
+      "MongoDB",
+      "REST API",
+      "Git"
+    ]
+  },
+  {
+    "_id": "114",
+    "desc": "Implement and support enterprise ERP modules at TechNova for Bengaluru (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 3,
+    "profile": "ERP Consultant",
+    "techs": [
+      "SQL",
+      "Java",
+      "Agile",
+      "Business Analysis"
+    ]
+  },
+  {
+    "_id": "115",
+    "desc": "Build cross-functional mobile experiences at InnovaSoft for Chennai (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 2,
+    "profile": "Mobile App Developer",
+    "techs": [
+      "Flutter",
+      "Dart",
+      "Firebase",
+      "REST API"
+    ]
+  },
+  {
+    "_id": "116",
+    "desc": "Support internal developer platforms and automation at SkyBridge Systems for Hyderabad (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 6,
+    "profile": "Platform Engineer",
+    "techs": [
+      "Linux",
+      "Docker",
+      "Kubernetes",
+      "Python",
+      "CI/CD"
+    ]
+  },
+  {
+    "_id": "117",
+    "desc": "Build and maintain enterprise-grade web applications at Orbit Labs for Mumbai (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 2,
+    "profile": "Software Engineer",
+    "techs": [
+      "Java",
+      "Spring Boot",
+      "React",
+      "MySQL",
+      "Git"
+    ]
+  },
+  {
+    "_id": "118",
+    "desc": "Develop scalable REST APIs and backend services at BluePeak Solutions for Pune (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 4,
+    "profile": "Backend Developer",
+    "techs": [
+      "Java",
+      "Spring Boot",
+      "REST API",
+      "MongoDB",
+      "Docker"
+    ]
+  },
+  {
+    "_id": "119",
+    "desc": "Create responsive user interfaces for modern web apps at NexaWorks for Kochi (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 0,
+    "profile": "Frontend Developer",
+    "techs": [
+      "React",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Bootstrap"
+    ]
+  },
+  {
+    "_id": "120",
+    "desc": "Work across frontend and backend layers in product teams at FutureGrid for Delhi (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 2,
+    "profile": "Full Stack Developer",
+    "techs": [
+      "Java",
+      "Spring Boot",
+      "React",
+      "PostgreSQL",
+      "Git"
+    ]
+  },
+  {
+    "_id": "121",
+    "desc": "Automate build, release, and deployment workflows at CodeCraft for Noida (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 4,
+    "profile": "DevOps Engineer",
+    "techs": [
+      "Docker",
+      "Kubernetes",
+      "Jenkins",
+      "Linux",
+      "AWS"
+    ]
+  },
+  {
+    "_id": "122",
+    "desc": "Design and support cloud infrastructure and services at AlphaSphere for Remote (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 6,
+    "profile": "Cloud Engineer",
+    "techs": [
+      "AWS",
+      "Terraform",
+      "Docker",
+      "Linux",
+      "Python"
+    ]
+  },
+  {
+    "_id": "123",
+    "desc": "Analyze business data and prepare dashboards at PrimeStack for Hybrid (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 4,
+    "profile": "Data Analyst",
+    "techs": [
+      "SQL",
+      "Excel",
+      "Power BI",
+      "Tableau"
+    ]
+  },
+  {
+    "_id": "124",
+    "desc": "Build reliable ETL pipelines and data platforms at VertexOne for Gurugram (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 2,
+    "profile": "Data Engineer",
+    "techs": [
+      "Python",
+      "Spark",
+      "Kafka",
+      "SQL",
+      "AWS"
+    ]
+  },
+  {
+    "_id": "125",
+    "desc": "Train and deploy ML models for real-world use cases at CloudMint for Thiruvananthapuram (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 3,
+    "profile": "Machine Learning Engineer",
+    "techs": [
+      "Python",
+      "TensorFlow",
+      "Scikit-learn",
+      "Pandas",
+      "NumPy"
+    ]
+  },
+  {
+    "_id": "126",
+    "desc": "Test web and API features with automation at TechNova for Bengaluru (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 2,
+    "profile": "QA Engineer",
+    "techs": [
+      "Selenium",
+      "Java",
+      "JUnit",
+      "TestNG",
+      "Postman"
+    ]
+  },
+  {
+    "_id": "127",
+    "desc": "Monitor systems and help secure enterprise environments at InnovaSoft for Chennai (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 5,
+    "profile": "Security Analyst",
+    "techs": [
+      "SIEM",
+      "Networking",
+      "Linux",
+      "Python",
+      "Firewalls"
+    ]
+  },
+  {
+    "_id": "128",
+    "desc": "Maintain and optimize enterprise databases at SkyBridge Systems for Hyderabad (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 8,
+    "profile": "Database Administrator",
+    "techs": [
+      "SQL",
+      "PostgreSQL",
+      "Oracle",
+      "Backup",
+      "Performance Tuning"
+    ]
+  },
+  {
+    "_id": "129",
+    "desc": "Develop Android apps and mobile features at Orbit Labs for Mumbai (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 0,
+    "profile": "Android Developer",
+    "techs": [
+      "Kotlin",
+      "Android",
+      "Firebase",
+      "REST API"
+    ]
+  },
+  {
+    "_id": "130",
+    "desc": "Build iOS apps with native tools and frameworks at BluePeak Solutions for Pune (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 2,
+    "profile": "iOS Developer",
+    "techs": [
+      "Swift",
+      "iOS",
+      "Xcode",
+      "Firebase"
+    ]
+  },
+  {
+    "_id": "131",
+    "desc": "Design intuitive experiences for web and mobile products at NexaWorks for Kochi (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 2,
+    "profile": "UI/UX Designer",
+    "techs": [
+      "Figma",
+      "Adobe XD",
+      "Wireframing",
+      "Prototyping"
+    ]
+  },
+  {
+    "_id": "132",
+    "desc": "Gather requirements and support product delivery at FutureGrid for Delhi (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 4,
+    "profile": "Business Analyst",
+    "techs": [
+      "SQL",
+      "Excel",
+      "JIRA",
+      "Agile",
+      "Power BI"
+    ]
+  },
+  {
+    "_id": "133",
+    "desc": "Improve availability, monitoring, and incident response at CodeCraft for Noida (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 7,
+    "profile": "Site Reliability Engineer",
+    "techs": [
+      "Linux",
+      "Docker",
+      "Kubernetes",
+      "Prometheus",
+      "Grafana"
+    ]
+  },
+  {
+    "_id": "134",
+    "desc": "Design scalable architecture for enterprise platforms at AlphaSphere for Remote (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 8,
+    "profile": "Solutions Architect",
+    "techs": [
+      "AWS",
+      "Microservices",
+      "Docker",
+      "Kubernetes",
+      "Java"
+    ]
+  },
+  {
+    "_id": "135",
+    "desc": "Lead developers and review architecture decisions at PrimeStack for Hybrid (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 7,
+    "profile": "Technical Lead",
+    "techs": [
+      "Java",
+      "Spring Boot",
+      "AWS",
+      "Docker",
+      "Leadership"
+    ]
+  },
+  {
+    "_id": "136",
+    "desc": "Build microservices using Spring Boot and cloud tools at VertexOne for Gurugram (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 4,
+    "profile": "Java Microservices Developer",
+    "techs": [
+      "Java",
+      "Spring Boot",
+      "Kafka",
+      "Docker",
+      "AWS"
+    ]
+  },
+  {
+    "_id": "137",
+    "desc": "Develop frontend applications with reusable components at CloudMint for Thiruvananthapuram (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 3,
+    "profile": "React Developer",
+    "techs": [
+      "React",
+      "Redux",
+      "JavaScript",
+      "CSS",
+      "HTML"
+    ]
+  },
+  {
+    "_id": "138",
+    "desc": "Create backend services and automation scripts at TechNova for Bengaluru (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 4,
+    "profile": "Python Developer",
+    "techs": [
+      "Python",
+      "Django",
+      "Flask",
+      "PostgreSQL",
+      "Git"
+    ]
+  },
+  {
+    "_id": "139",
+    "desc": "Build generative AI and intelligent automation solutions at InnovaSoft for Chennai (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 1,
+    "profile": "AI Engineer",
+    "techs": [
+      "Python",
+      "LLMs",
+      "LangChain",
+      "OpenAI API",
+      "Vector DB"
+    ]
+  },
+  {
+    "_id": "140",
+    "desc": "Entry-level opportunity for fresh graduates at SkyBridge Systems for Hyderabad (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 0,
+    "profile": "Graduate Trainee",
+    "techs": [
+      "Java",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Git"
+    ]
+  },
+  {
+    "_id": "141",
+    "desc": "Internship for computer science students and freshers at Orbit Labs for Mumbai (Onsite). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 0,
+    "profile": "Software Engineer Intern",
+    "techs": [
+      "Java",
+      "Git",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  },
+  {
+    "_id": "142",
+    "desc": "Deliver product features end to end in a fast-paced team at BluePeak Solutions for Pune (Hybrid). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 3,
+    "profile": "Product Engineer",
+    "techs": [
+      "Java",
+      "React",
+      "MongoDB",
+      "REST API",
+      "Git"
+    ]
+  },
+  {
+    "_id": "143",
+    "desc": "Implement and support enterprise ERP modules at NexaWorks for Kochi (Remote). Collaborate with product, engineering, and QA teams to deliver quality solutions.",
+    "exp": 7,
+    "profile": "ERP Consultant",
+    "techs": [
+      "SQL",
+      "Java",
+      "Agile",
+      "Business Analysis"
+    ]
+  }
+]
