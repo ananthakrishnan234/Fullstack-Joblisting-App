@@ -15,7 +15,7 @@ import axios from 'axios';
 // ─────────────────────────────────────────
 
 const API = axios.create({
-  baseURL: process.env.REACT_APP_API_URL || 'http://localhost:8081',
+  baseURL: process.env.REACT_APP_API_URL || 'http://localhost:8080',
   timeout: 10000,
   headers: {
     'Content-Type': 'application/json',
@@ -54,6 +54,7 @@ API.interceptors.response.use(
   (response) => response,
   (error) => {
     const message =
+      error.response?.data?.error ||
       error.response?.data?.message ||
       error.response?.data?.errors?.[0] ||
       error.message ||
