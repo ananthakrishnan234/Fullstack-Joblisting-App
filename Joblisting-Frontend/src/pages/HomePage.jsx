@@ -28,7 +28,7 @@ export default function HomePage() {
   const [loading, setLoading] = useState(true);
   const [page, setPage] = useState(0);
   const [hasMore, setHasMore] = useState(false);
-  const [totalHint, setTotalHint] = useState(null);
+  const [, setTotalHint] = useState(null);
 
   // Mode: 'browse' | 'search' | 'filter'
   const [mode, setMode] = useState('browse');
