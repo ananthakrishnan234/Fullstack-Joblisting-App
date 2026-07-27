@@ -11,18 +11,19 @@ public class CorsConfig {
     @Bean
     public WebMvcConfigurer corsConfigurer() {
         return new WebMvcConfigurer() {
+
             @Override
             public void addCorsMappings(CorsRegistry registry) {
+
                 registry.addMapping("/**")
                         .allowedOrigins(
                                 "http://localhost:3000",
                                 "http://localhost:5173",
-                                "https://fullstack-joblisting-app.onrender.com/"
+                                "https://fullstack-joblisting-app.vercel.app",
+                                "https://fullstack-joblisting-h4qqs872l.vercel.app"
                         )
-
-                        .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
-                        .allowedHeaders("*")
-                        .allowCredentials(false);
+                        .allowedMethods("*")
+                        .allowedHeaders("*");
             }
         };
     }
