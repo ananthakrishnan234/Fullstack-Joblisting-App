@@ -28,7 +28,7 @@ export default function HomePage() {
   const [loading, setLoading] = useState(true);
   const [page, setPage] = useState(0);
   const [hasMore, setHasMore] = useState(false);
-  const [, setTotalHint] = useState(null);
+  
 
   // Mode: 'browse' | 'search' | 'filter'
   const [mode, setMode] = useState('browse');
@@ -46,7 +46,6 @@ export default function HomePage() {
       const data = res.data;
       setJobs(data);
       setHasMore(data.length === PAGE_SIZE);
-      setTotalHint(null);
     } catch (err) {
       showToast(err.message, 'error');
     } finally {
@@ -64,7 +63,6 @@ export default function HomePage() {
       const res = await jobsApi.search(text);
       setJobs(res.data);
       setHasMore(false); // Search returns all matching results
-      setTotalHint(res.data.length);
     } catch (err) {
       showToast(err.message, 'error');
       setJobs([]);
@@ -90,7 +88,6 @@ export default function HomePage() {
       const res = await jobsApi.filter(filterData, 0, PAGE_SIZE);
       setJobs(res.data);
       setHasMore(res.data.length === PAGE_SIZE);
-      setTotalHint(res.data.length < PAGE_SIZE ? res.data.length : null);
     } catch (err) {
       showToast(err.message, 'error');
       setJobs([]);
@@ -278,4 +275,4 @@ export default function HomePage() {
       </div>
     </div>
   );
-}
+} 
