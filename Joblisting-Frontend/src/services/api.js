@@ -22,7 +22,7 @@ const API = axios.create({
 });
 
 // ─────────────────────────────────────────
-// Session ID (for bookmarks — no auth yet)
+// Session ID (for bookmarks)
 // ─────────────────────────────────────────
 
 function getOrCreateSessionId() {
@@ -39,9 +39,15 @@ function getOrCreateSessionId() {
   return sessionId;
 }
 
-// Attach session header to every request automatically
 API.interceptors.request.use((config) => {
+  const token = localStorage.getItem('jb_token');
+
+  if (token) {
+    config.headers.Authorization = `Bearer ${token}`;
+  }
+
   config.headers['X-Session-Id'] = getOrCreateSessionId();
+
   return config;
 });
 
@@ -61,6 +67,24 @@ API.interceptors.response.use(
     return Promise.reject(new Error(message));
   }
 );
+
+// ─────────────────────────────────────────
+// Auth API
+// ─────────────────────────────────────────
+
+export const authApi = {
+  // POST /auth/register
+  register: (data) =>
+    API.post('/auth/register', data),
+
+  // POST /auth/login
+  login: (data) =>
+    API.post('/auth/login', data),
+
+  // GET /auth/me
+  getMe: () =>
+    API.get('/auth/me'),
+};
 
 // ─────────────────────────────────────────
 // Jobs API
