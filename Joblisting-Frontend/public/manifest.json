@@ -1,0 +1,9 @@
+{
+  "short_name": "JobBoard",
+  "name": "Fullstack Job Listing App",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0d253f",
+  "background_color": "#ffffff"
+}
